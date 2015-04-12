@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1393443258 source:d:\codeblock\autoshedding control system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphics_lib.h"
+	"ls.h"
+	"DateConverter.h"
+	"AutoShedding.h"
+	"show_now_ls.h"
+
+1392843035 d:\codeblock\autoshedding control system\graphics_lib.h
+	<windows.h>
+	<stdio.h>
+	"xnMenu.h"
+
+1393443383 d:\codeblock\autoshedding control system\xnmenu.h
+	<stdio.h>
+	"graphics_lib.h"
+
+1393442924 d:\codeblock\autoshedding control system\ls.h
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"DateConverter.h"
+
+1393443093 d:\codeblock\autoshedding control system\dateconverter.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"DateConverter.h"
+
+1392408066 d:\codeblock\autoshedding control system\autoshedding.h
+	<stdio.h>
+	"ls.h"
+
+1393442880 d:\codeblock\autoshedding control system\show_now_ls.h
+	<stdio.h>
+	"graphics_lib.h"
+	"ls.h"
+	"DateConverter.h"
+
